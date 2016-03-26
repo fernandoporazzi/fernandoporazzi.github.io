@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Fernando Porazzi</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://fernandoporazzi.github.io/"/>
+  <updated>2016-03-26T16:52:40.127Z</updated>
+  <id>http://fernandoporazzi.github.io/</id>
+  
+  <author>
+    <name>Fernando Porazzi</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World!</title>
+    <link href="http://fernandoporazzi.github.io/Hello-World/"/>
+    <id>http://fernandoporazzi.github.io/Hello-World/</id>
+    <published>2016-03-26T16:44:35.000Z</published>
+    <updated>2016-03-26T16:52:40.127Z</updated>
+    
+    <content type="html">&lt;p&gt;Olá, mundo! Depois de muita enrolação, resolvi criar coragem para começar escrever :P&lt;/p&gt;
+&lt;p&gt;O objetivo desse blog é compartilhar conhecimento. Provavelmente, os posts serão relacionados, em sua maioria, à tecnologia, desenvolvimento de software, stacks, prolemas comuns e formas de resolvê-los.&lt;/p&gt;
+&lt;p&gt;Espero que curta a experiência!&lt;/p&gt;
+&lt;p&gt;Abraços!&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Olá, mundo! Depois de muita enrolação, resolvi criar coragem para começar escrever :P&lt;/p&gt;
+&lt;p&gt;O objetivo desse blog é compartilhar conheci
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
