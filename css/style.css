@@ -71,14 +71,10 @@ a {
   float: left;
 }
 
-.avatar a {
-  float: left;
-}
-
 .avatar img {
   width: 150px;
   border-radius: 50%;
-  margin-left: 373px;
+  margin: 0 auto;
   display: block;
 }
 
@@ -158,6 +154,7 @@ a.read-more:hover {
 
 .post-author__pic {
   float: left;
+  margin-right: 20px;
 }
 
 .post-author__pic img {
@@ -165,17 +162,25 @@ a.read-more:hover {
   border-radius: 50%;
 }
 
-.post-author__desc {
-  padding: 0 0 0 20px;
-  float: left;
-}
-
 .post-author__desc h3 {
   margin: 0;
 }
 
+@media only screen and (max-width: 900px){
+  .content {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 700px){
+  .header h2 {
+    padding: 0 40px;
+  }
+}
 
 
+
+/* highlight */
 .code-block, .article-entry pre, .article-entry .highlight {
   background: #2d2d2d;
   margin: 0;
