@@ -1,0 +1,26 @@
+{
+  "name": "fernandoporazzi.github.io",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandoporazzi/fernandoporazzi.github.io.git"
+  },
+  "author": "Fernando Porazzi <fernandoporazzi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandoporazzi/fernandoporazzi.github.io/issues"
+  },
+  "homepage": "https://github.com/fernandoporazzi/fernandoporazzi.github.io#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "serve-static": "^1.11.1"
+  }
+}
