@@ -17,6 +17,9 @@
   "bugs": {
     "url": "https://github.com/fernandoporazzi/fernandoporazzi.github.io/issues"
   },
+  "engines": {
+    "node": "5.12.x"
+  },
   "homepage": "https://github.com/fernandoporazzi/fernandoporazzi.github.io#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
