@@ -4,7 +4,7 @@
   "description": "Personal website",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "gulp build && node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,5 +22,9 @@
     "express": "^4.14.0",
     "jade": "^1.11.0",
     "serve-static": "^1.11.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-stylus": "^2.5.0"
   }
 }
